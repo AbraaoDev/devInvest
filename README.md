@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="DevInvest" src=".github/icon.svg" width="120px">
+  <img alt="DevInvest" src=".github/icon.svg" width="170px">
 </p>
 
 ## 🧪 Technologies
